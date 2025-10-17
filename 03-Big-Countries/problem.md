@@ -60,5 +60,3 @@ Return the result table in **any order**.
 Hence, both **Afghanistan** and **Algeria** are considered big countries.
 
 ---
-    gdp BIGINT
-);
