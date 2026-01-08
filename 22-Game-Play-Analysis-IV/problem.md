@@ -1,4 +1,4 @@
-# 🧩 Problem 21: Game Play Analysis IV
+# 🧩 Problem 22: Game Play Analysis IV
 
 ## 📝 Problem Statement
 
